@@ -17,9 +17,13 @@ See instructions. Delete this line and place your Product Vision Statement here.
 ## User Requirements
 
 As an NYU student, I want to search for the fastest route so that I can get to class on time.
+
 As a member of the NYU community, I want to view previous trips so that I do not have to reenter trip information.
+ 
 As a member of the NYU community, I want to rate trips immediately when they end so that I can give accurate feedback.
+ 
 As a member of the NYU community, I want to view how routes are being rated so that I can choose the best one.
+ 
 As an NYU student, I want to only view routes between NYU buildings, so that I can quickly navigate the campus without getting distracted by non-university locations.
 
 ## Activity Diagrams
