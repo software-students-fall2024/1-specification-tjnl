@@ -45,4 +45,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Clickable Prototype
 
-[Clickable prototype](https://www.figma.com/proto/auiQwH37dpDupi33P4QsoR/NYU-Transit?node-id=6-3277&node-type=canvas&t=xKp3tEddKN4GR45g-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A5&show-proto-sidebar=1)
+[Clickable Prototype Link](https://www.figma.com/proto/auiQwH37dpDupi33P4QsoR/NYU-Transit?node-id=1-5&node-type=canvas&t=xKp3tEddKN4GR45g-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A5&show-proto-sidebar=1)
