@@ -8,14 +8,29 @@ See instructions. Delete this line and replace with a list of the names of your 
 
 [Tahsin's Github](https://github.com/tahsintawhid)
 [Neha's Github](https://github.com/nehamagesh)
+[Luca's Github](https://github.com/lucaignatescu)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+In designing this app, we interviewed Kevin, who is entering his second year as a resident in the Lafayette residence hall. He is also a Tandon student, and, as such, commutes between the Brooklyn and Manhattan campuses often. Through this discussion, we identified the following.
+
+Needs: 
+
+1. Get to class on time.
+2. Commute between the Manhattan and Brooklyn campuses.
+3. Identify all available transportation options.
+4. Find the most optimal means of transportation between NYU buildings.
+
+Problems:
+
+1. There is no unified view of public and NYU transportation.
+2. NYU bus schedules change very often and are hard to keep track of.
+3. The time to make a decision can cause people to miss out on the fastest option.
+4. It is hard to get feedback on different transportation options.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our app will present a unified, feedback driven view of transportation options between NYU campus locations, integrating both public and NYU services to provide the best commuting experience.
 
 ## User Requirements
 
