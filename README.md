@@ -9,6 +9,7 @@ See instructions. Delete this line and replace with a list of the names of your 
 [Tahsin's Github](https://github.com/tahsintawhid)
 [Neha's Github](https://github.com/nehamagesh)
 [Luca's Github](https://github.com/lucaignatescu)
+[James's Github](https://github.com/jwhit0)
 
 ## Stakeholders
 
