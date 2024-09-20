@@ -35,29 +35,31 @@ Our app will present a unified, feedback driven view of transportation options b
 
 ## User Requirements
 
-As an NYU student, I want to search for the fastest route so that I can get to class on time.
+1. As an NYU student, I want to search for the fastest route so that I can get to class on time.
 
-As a member of the NYU community, I want to view previous trips so that I do not have to reenter trip information.
+2. As a member of the NYU community, I want to view previous trips so that I do not have to reenter trip information.
  
-As a member of the NYU community, I want to rate trips immediately when they end so that I can give accurate feedback.
+3. As a member of the NYU community, I want to rate trips immediately when they end so that I can give accurate feedback.
  
-As a member of the NYU community, I want to view how routes are being rated so that I can choose the best one.
+4. As a member of the NYU community, I want to view how routes are being rated so that I can choose the best one.
  
-As an NYU student, I want to only view routes between NYU buildings, so that I can quickly navigate the campus without getting distracted by non-university locations.
+5. As an NYU student, I want to only view routes between NYU buildings, so that I can quickly navigate the campus without getting distracted by non-university locations.
 
-As a member of the NYU community, I want to be able to plan commutes on weekends, when there is limited service for most transit options. 
+6. As a member of the NYU community, I want to be able to plan commutes on weekends, when there is limited service for most transit options. 
 
-As a member of the NYU community, I want to see the times of the buses, trains, and shuttles that are nearby or get me to my destination.
+7. As a member of the NYU community, I want to see the times of the buses, trains, and shuttles that are nearby or get me to my destination.
 
-As a member of the NYU community, I want to be able to call SafeRide immediately when needed so that I can get home safely during late hours.
+8. As a member of the NYU community, I want to be able to call SafeRide immediately when needed so that I can get home safely during late hours.
 
-As a member of the NYU community, I want to be able to choose between various commute options, depending on weather, time, or just how I am feeling.
+9. As a member of the NYU community, I want to be able to choose between various commute options, depending on weather, time, or just how I am feeling.
 
-As a member of the NYU community, I want to be able to commute to other NYU buildings, and will need to rely on this app for transportation across neighborhoods or even boroughs. 
+10. As a member of the NYU community, I want to be able to commute to other NYU buildings, and will need to rely on this app for transportation across neighborhoods or even boroughs. 
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![Case Story #7](/Images/UML Diagram Case Story #7.png)
+
+![Case Story #8](/Images/UML Diagram Case Story #8.png)
 
 ## Clickable Prototype
 
