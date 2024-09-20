@@ -57,9 +57,9 @@ Our app will present a unified, feedback driven view of transportation options b
 
 ## Activity Diagrams
 
-![Case Story #7](/Images/UML Diagram Case Story #7.png)
+![Case Story #7](Images/UML Diagram Case Story #7.png)
 
-![Case Story #8](/Images/UML Diagram Case Story #8.png)
+![Case Story #8](Images/UML Diagram Case Story #8.png)
 
 ## Clickable Prototype
 
