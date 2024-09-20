@@ -57,9 +57,11 @@ Our app will present a unified, feedback driven view of transportation options b
 
 ## Activity Diagrams
 
-![Case Story #7](https://github.com/software-students-fall2024/1-specification-tjnl/blob/main/Images/UML%20Diagram%20Case%20Story%20%237.png)
+The Activity Diagram below is for User Story #7.
+![User Story #7](https://github.com/software-students-fall2024/1-specification-tjnl/blob/main/Images/UML%20Diagram%20Case%20Story%20%237.png)
 
-![Case Story #8](https://github.com/software-students-fall2024/1-specification-tjnl/blob/main/Images/UML%20Diagram%20Case%20Story%20%238.png)
+The Activity Diagram below is for User Story #8.
+![User Story #8](https://github.com/software-students-fall2024/1-specification-tjnl/blob/main/Images/UML%20Diagram%20Case%20Story%20%238.png)
 
 ## Clickable Prototype
 
